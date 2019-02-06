@@ -24,6 +24,7 @@
     "nativescript-dev-webpack": "~0.19.0",
     "nativescript-vue-template-compiler": "~2.0.0",
     "node-sass": "~4.9.0",
+    "tns-platform-declarations": "5.1.2",
     "vue-loader": "~15.4.0"
   },
   "gitHead": "7019c72a25b784ba304d3a198f4c1fc37add6536",
